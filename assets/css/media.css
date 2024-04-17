@@ -31,9 +31,12 @@
 		padding: 5px;
 		margin: 5px;
 	}
-    .text-top{
+    	.text-top{
         padding-top: 40px;
-    }
+    	}
+	header {
+		border-right: none;
+	}
 }
 @media only screen and (max-width: 1158px){
     #about-me{
