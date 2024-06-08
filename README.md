@@ -32,7 +32,6 @@ Neste projeto, busquei criar um portfólio que fosse não apenas funcional, mas 
 Desenvolver um portfólio responsivo trouxe diversos desafios, especialmente no posicionamento dos elementos. Aqui estão algumas das soluções que implementei:
 - **Display Flex e Grid**: Explorei várias técnicas de layout como Flexbox e Grid para organizar os elementos de forma eficiente.
 - **Media Queries**: Utilizei media queries para garantir que o design se ajustasse perfeitamente a diferentes tamanhos de tela.
-- **Estudo e Aplicação de Bootstrap**: Embora tenha considerado o uso de frameworks como Bootstrap, optei por uma abordagem mais personalizada para aprender e aplicar os conceitos de responsividade de maneira mais aprofundada.
 
 ## Tecnologias Utilizadas
 - **HTML**: Estrutura e conteúdo.
