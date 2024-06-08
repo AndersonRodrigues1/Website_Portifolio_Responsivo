@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#7f5cd1; font-size:45px;">Meu Novo Portfólio Responsivo</h1>
 
-<h2 align="center" style="color:#7f5cd1; font-size:45px;">site: https://andersonrodrigues.site</h2>
-
 Bem-vindo ao meu novo portfólio! Este projeto foi desenvolvido com muito empenho e dedicação durante 3 semanas. O objetivo principal foi criar um portfólio altamente responsivo, enfrentando e superando vários desafios ao longo do caminho. Utilizei HTML, CSS e JavaScript para trazer minha visão à vida, e estou animado para compartilhar um pouco mais sobre mim e meu trabalho.
+
+<h2 align="left" style="color:#7f5cd1; font-size:45px;">site: https://andersonrodrigues.site</h2>
 
 ## Índice
 - [Descrição do Projeto](#descrição-do-projeto)
