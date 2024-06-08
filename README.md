@@ -41,7 +41,7 @@ Desenvolver um portfólio responsivo trouxe diversos desafios, especialmente no 
 
 ## Exemplos de Imagens
 <p align="center">
-  <img src="https://github.com/AndersonRodrigues1/Website_Portifolio_Responsivo/assets/127049907/af84c030-6e10-46f0-a77b-dc8145414d81" width="400" alt="Exemplo Imagem">
+  <img src="https://github.com/AndersonRodrigues1/Website_Portifolio_Responsivo/assets/127049907/af84c030-6e10-46f0-a77b-dc8145414d81" width="600" alt="Exemplo Imagem">
 </p>
 
 ## Como Visualizar o Projeto
